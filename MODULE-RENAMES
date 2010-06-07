@@ -1,0 +1,14 @@
+To make importing submodules easier, the submodules from the initial tree...
+
+drwxr-xr-x  3 russ russ 4096 2010-02-24 04:11 module_xtcp.1v3
+drwxr-xr-x  3 russ russ 4096 2010-02-24 04:11 module_ethernet.1v3
+drwxr-xr-x  5 russ russ 4096 2010-02-24 04:11 module_xmos_common.1v0
+drwxr-xr-x  4 russ russ 4096 2010-02-24 04:12 app_simple_webserver.1v3
+drwxr-xr-x  4 russ russ 4096 2010-02-24 04:14 app_xc2_firmware.1v3
+
+
+...were renamed to skip the .<version> numbers.
+
+We label code internally with version numbers. It is unhelpful to make trees 
+version specific.
+
