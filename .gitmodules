@@ -1,0 +1,15 @@
+[submodule "app_xc2_firmware"]
+	path = app_xc2_firmware
+	url = git@github.com:XMOSCookbook/app_xc2_firmware.git
+[submodule "app_simple_webserver"]
+	path = app_simple_webserver
+	url = git@github.com:XMOSCookbook/app_simple_webserver.git
+[submodule "module_xmos_common"]
+	path = module_xmos_common
+	url = git@github.com:XMOSCookbook/module_xmos_common.git
+[submodule "module_ethernet"]
+	path = module_ethernet
+	url = git@github.com:XMOSCookbook/module_ethernet.git
+[submodule "module_xtcp"]
+	path = module_xtcp
+	url = git@github.com:XMOSCookbook/module_xtcp.git
